@@ -1,0 +1,20 @@
+[
+    {
+    "name": "ONLINE_CONTACT_SESSION",
+    "value": "RBP4d5ZwiWN9JPxFhCT%2BWIKfsfCxpx04Rd1Pja%2BkIX%2FUIlvUk7OliwqVXMbxE6YGeMrB9puhkjgd4BvDzhuRG6U6T5EeUWsghx5gTXwvDMsTImd3Zt1glRPOiYgdTWb4ADJ6%2FQB5%2Bw1WegN1MgMjq1lNPuZVmICSKvrr%2B5tS%2FQ0%3D",
+    "domain": ".ticketlink.co.kr",
+    "path": "/",
+    "httpOnly": false,
+    "sameSite": "None",
+    "secure": true
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "144636C588B5A28CA6830B83D81CB5FE.WAS2",
+      "domain": "www.ticketlink.co.kr",
+      "path": "/",
+      "httpOnly": true,
+      "sameSite": "None",
+      "secure": true
+    }
+  ]

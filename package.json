@@ -13,6 +13,10 @@
     "electron": "^37.1.0",
     "electron-builder": "^26.0.12",
     "playwright": "^1.53.1",
+    "playwright-extra": "^4.3.6",
+    "puppeteer": "^24.12.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
   },
