@@ -10,6 +10,7 @@
     "electron": "electron dist/electron.js"
   },
   "dependencies": {
+    "chrome-launcher": "^1.2.0",
     "electron": "^37.1.0",
     "electron-builder": "^26.0.12",
     "playwright": "^1.53.1",
@@ -17,6 +18,7 @@
     "puppeteer": "^24.12.1",
     "puppeteer-extra": "^3.3.6",
     "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "puppeteer-real-browser": "^1.4.2",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
   },
